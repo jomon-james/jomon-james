@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jomon-james
 - 👀 I’m interested in learning new things...
 - 🌱 I’m currently learning masters in computer applications ...
-- 📫 ypu can reach me at joonjames117@gmail.com
+- 📫 you can reach me at joonjames117@gmail.com
 
 
 <!---
